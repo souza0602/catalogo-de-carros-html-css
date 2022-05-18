@@ -410,9 +410,9 @@ footer .last {
 
 @media (max-width: 576px) {
     nav ul li {
-        display: none;
+      display: none;
     }
-}
+  
 
 .header-block img {
     width: 70%;
@@ -490,4 +490,5 @@ footer .main {
 .footer-links {
     flex-direction: column;
     padding-left: 10%;
+}
 }
